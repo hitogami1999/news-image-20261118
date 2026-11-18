@@ -8,17 +8,22 @@ Sum up 18 November's world news in one image. Entry for make.fun bounty [news-im
 
 ## The image
 
-A newspaper front page for **Wednesday 18 November 2026**, composed from a text-free illustration (globe, broken bridge, capitol) with all headlines typeset in crisp system fonts, so no text is garbled.
+A visual atlas of **Wednesday 18 November 2026** in deep teal and warm sand — a big illustrated hero panorama of the day's hotspots, four large visual story cards, a "Where it happened" world map, and eight one-line briefs. All headlines typeset in crisp system fonts over PIL-drawn flat illustrations, so no text is garbled.
 
-Stories (all reported on 18 November 2026):
+Hero panorama (all reported on 18 November 2026):
 
-1. **Gulf on edge** — US jets hit a Revolutionary Guard missile site on Qeshm Island; Iran fired drones at Bahrain and Kuwait, targeting a US radar site — its third attack there in under a week.
-2. **Kerch Bridge hit again** — struck overnight 16–17 Nov: one arch collapsed and the road span fell into the strait. Rail service resumed, but the auto route stays closed.
-3. **Summit in Shenzhen** — Trump, Xi Jinping and Putin meet this week in China, ahead of a three-leader summit in Shenzhen.
-4. **Democrats take Alaska** — Mary Peltola wins the Senate seat, giving the Democrats 56 seats in the US Senate.
-5. **Ebola surge in Congo** — the outbreak has more than doubled in three months: over 11,000 cases and 5,400 deaths, the UN says. Nearly three-quarters of infected children under 5 die.
+1. **Qeshm Island** — US jets hit a Revolutionary Guard missile site on Qeshm Island; Iran fired drones at Bahrain and Kuwait, targeting a US radar site.
+2. **Kerch Strait** — the Kerch Bridge struck overnight 16–17 Nov: one arch collapsed and the road span fell into the strait. Rail service resumed, but the auto route stays closed.
+3. **Shenzhen** — Trump, Xi Jinping and Putin gather in Shenzhen this week for a first three-way summit.
 
-Also today: US loses its measles-free status after 26 years (5,400+ cases, 10 deaths); cold and floods hit Gaza's displaced camps, and Australia, Canada, Italy and the UK call for aid access; a Russian military plane crashed in Siberia, 19 dead; Category 5 Cyclone Xavier hit the Northern Cook Islands; a 5.3–5.7 earthquake in Romania, felt in Ukraine and Moldova.
+Story cards:
+
+4. **Russia fires 141 drones** — overnight, air defences down 126, hits at 7 sites.
+5. **Cyclone Akvan strengthens** — severe storm in the Bay of Bengal, landfall due ~20 Nov on the Andhra coast.
+6. **GTA VI goes on sale** — first new GTA in 13 years, on sale Thursday; 15.9m pre-orders, $1.54bn, at $79.99.
+7. **Ebola more than doubles** — more than doubled in three months: 11,000+ cases and 5,400 deaths, the UN says.
+
+Also today: UK inflation hits 3.6%, highest in a year as fuel jumps 33.2%; Amnesty: RSF drone strikes in El Obeid killed 37 civilians; COP31 draft deal urges a fast move from fossil fuels while Türkiye's 35-by-35 goal splits talks; Bangladesh garment unrest — 39 factories shut, highway blocked; Mary Peltola wins Alaska's Senate seat, giving the Democrats 56 seats; Australia sanctions Daniella Weiss and two others over West Bank settlements; US loses its measles-free status after 26 years; cold and floods hit Gaza's displaced camps, and aid access is urged.
 
 ## Run it
 
